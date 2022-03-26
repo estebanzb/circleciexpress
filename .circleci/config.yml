@@ -1,4 +1,4 @@
 workflows:
-    example-workflow:
+    node-tests:
       jobs:
         - node/test
